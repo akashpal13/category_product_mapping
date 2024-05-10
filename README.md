@@ -6,7 +6,6 @@ This project demonstrates a simple Spring Boot application for managing categori
 
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
 - [Usage](#usage)
 
 ## Getting Started
@@ -21,3 +20,11 @@ Before you begin, ensure you have the following installed:
 - Maven or Gradle build tool - [Download Maven](https://maven.apache.org/download.cgi) or [Download Gradle](https://gradle.org/install/)
 - Integrated Development Environment (IDE) like IntelliJ IDEA or Eclipse - [Download IntelliJ IDEA](https://www.jetbrains.com/idea/download/) or [Download Eclipse](https://www.eclipse.org/downloads/)
 
+
+## Usage
+
+Once the project is set up, follow these steps to run the application:
+
+1. Run the main class `Application.java` in your IDE.
+
+2. The Spring Boot application will start, and you can access the APIs using the provided URLs.
