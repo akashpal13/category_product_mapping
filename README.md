@@ -25,5 +25,5 @@ Before you begin, ensure you have the following installed:
 
 Once the project is set up, follow these steps to run the application:
 
-1. Run the main class `ategoryProductApplication.java` in your IDE.
+1. Run the main class `CategoryProductApplication.java` in your IDE.
 2. The Spring Boot application will start, and you can access the APIs using the provided URLs.
